@@ -1,6 +1,6 @@
 """
 This script runs the FlaskWebProject application using a development server.
-Bjlanza - Udacity - May 9
+Bjlanza - Udacity - May
 """
 
 from os import environ
